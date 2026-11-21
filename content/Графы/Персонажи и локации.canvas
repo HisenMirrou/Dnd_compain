@@ -1,0 +1,306 @@
+{
+  "nodes": [
+    {
+      "id": "647bfe87136f7298",
+      "type": "file",
+      "file": "Локации/Подземье.md",
+      "x": 120,
+      "y": -440,
+      "width": 240,
+      "height": 90,
+      "color": "5"
+    },
+    {
+      "id": "5153fd365e01f21b",
+      "type": "file",
+      "file": "Локации/Роща Neverlight.md",
+      "x": 920,
+      "y": -485,
+      "width": 240,
+      "height": 90,
+      "color": "6"
+    },
+    {
+      "id": "8e7bccc25d83b5c3",
+      "type": "file",
+      "file": "Персонажи/Пресонажи игроков/Инг Вар Сиинг.md",
+      "x": -920,
+      "y": 0,
+      "width": 240,
+      "height": 90,
+      "color": "4"
+    },
+    {
+      "id": "8fb0e1c5dc313965",
+      "type": "file",
+      "file": "Персонажи/Нипы/Бро/Ронт.md",
+      "x": -920,
+      "y": 265,
+      "width": 240,
+      "height": 90,
+      "color": "3"
+    },
+    {
+      "id": "773ee483d76fa1ba",
+      "type": "file",
+      "file": "Персонажи/Нипы/Бро/Стул.md",
+      "x": 1720,
+      "y": 40,
+      "width": 240,
+      "height": 80,
+      "color": "3"
+    },
+    {
+      "id": "b398ad115aab37b7",
+      "type": "file",
+      "file": "Локации/Гонтлгрим.md",
+      "x": 1320,
+      "y": 985,
+      "width": 240,
+      "height": 90,
+      "color": "6"
+    },
+    {
+      "id": "ccc693798fe0ce4e",
+      "type": "file",
+      "file": "Персонажи/Нипы/Бро/Эльдет Фельдрун.md",
+      "x": 1720,
+      "y": 395,
+      "width": 240,
+      "height": 90,
+      "color": "3"
+    },
+    {
+      "id": "ea4fb391a096b9f6",
+      "type": "file",
+      "file": "Персонажи/Нипы/Бро/Сарит Кзекарит.md",
+      "x": 1720,
+      "y": -115,
+      "width": 240,
+      "height": 90,
+      "color": "3"
+    },
+    {
+      "id": "9a3fcb2dff4aa620",
+      "type": "file",
+      "file": "Локации/Велкинвильв.md",
+      "x": -240,
+      "y": 390,
+      "width": 240,
+      "height": 90,
+      "color": "6"
+    },
+    {
+      "id": "2de4b3091a67a065",
+      "type": "file",
+      "file": "Локации/Шёлковый путь.md",
+      "x": 680,
+      "y": 390,
+      "width": 240,
+      "height": 90,
+      "color": "6"
+    },
+    {
+      "id": "eef41042a3c72e7e",
+      "type": "file",
+      "file": "Локации/Коридоры памяти.md",
+      "x": 240,
+      "y": 390,
+      "width": 240,
+      "height": 90,
+      "color": "6"
+    },
+    {
+      "id": "ad90b9228427fb55",
+      "type": "file",
+      "file": "Локации/Слобладоп.md",
+      "x": 680,
+      "y": 120,
+      "width": 240,
+      "height": 90,
+      "color": "6"
+    },
+    {
+      "id": "67b2510b7ea4e0cf",
+      "type": "file",
+      "file": "Персонажи/Нипы/Бро/Принц Дерендил.md",
+      "x": 2040,
+      "y": 300,
+      "width": 240,
+      "height": 90,
+      "color": "2"
+    },
+    {
+      "id": "3e01c1a83d6a4b87",
+      "type": "file",
+      "file": "Локации/Хайфорест.md",
+      "x": 1960,
+      "y": 1030,
+      "width": 240,
+      "height": 90,
+      "color": "6"
+    },
+    {
+      "id": "9d7e4da3597ff3d8",
+      "type": "file",
+      "file": "Персонажи/Нипы/Бро/Шуушар Пробужденный.md",
+      "x": 1740,
+      "y": 210,
+      "width": 240,
+      "height": 90,
+      "color": "3"
+    },
+    {
+      "id": "f909732d0733b40e",
+      "type": "file",
+      "file": "Локации/Тёмное озеро.md",
+      "x": 680,
+      "y": -205,
+      "width": 240,
+      "height": 90,
+      "color": "6"
+    },
+    {
+      "id": "7d8f530b8e82dd7c",
+      "type": "file",
+      "file": "Персонажи/Нипы/Сомнительные Личности/Ильвара Миззрим.md",
+      "x": 320,
+      "y": 1240,
+      "width": 240,
+      "height": 90,
+      "color": "2"
+    },
+    {
+      "id": "54d630d2226bb5b3",
+      "type": "file",
+      "file": "Персонажи/Нипы/Сучья свалка/Аша Вандри.md",
+      "x": 800,
+      "y": 1120,
+      "width": 240,
+      "height": 90,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "d432951677af5eaa",
+      "fromNode": "9a3fcb2dff4aa620",
+      "fromSide": "right",
+      "toNode": "647bfe87136f7298",
+      "toSide": "left",
+      "label": "старт после побега"
+    },
+    {
+      "id": "b65fba4ac9aa8cb3",
+      "fromNode": "8e7bccc25d83b5c3",
+      "fromSide": "top",
+      "toNode": "9a3fcb2dff4aa620",
+      "toSide": "top",
+      "label": "пленник / побег / захвачен повторно"
+    },
+    {
+      "id": "10c6947e59e7b99b",
+      "fromNode": "8fb0e1c5dc313965",
+      "fromSide": "top",
+      "toNode": "9a3fcb2dff4aa620",
+      "toSide": "top",
+      "label": "пленник / захвачен повторно"
+    },
+    {
+      "id": "fc97baa4aed801bb",
+      "fromNode": "54d630d2226bb5b3",
+      "fromSide": "top",
+      "toNode": "9a3fcb2dff4aa620",
+      "toSide": "right",
+      "label": "хочет вернуть пленников"
+    },
+    {
+      "id": "c561e6e0edace7af",
+      "fromNode": "67b2510b7ea4e0cf",
+      "fromSide": "left",
+      "toNode": "3e01c1a83d6a4b87",
+      "toSide": "top",
+      "label": "родина и королевство"
+    },
+    {
+      "id": "475769cc81fcc164",
+      "fromNode": "ccc693798fe0ce4e",
+      "fromSide": "bottom",
+      "toNode": "b398ad115aab37b7",
+      "toSide": "right",
+      "label": "родина / щитовая дворфийка"
+    },
+    {
+      "id": "afb0c62af4dc6b75",
+      "fromNode": "ea4fb391a096b9f6",
+      "fromSide": "right",
+      "toNode": "5153fd365e01f21b",
+      "toSide": "right",
+      "label": "очнулся после заражения"
+    },
+    {
+      "id": "8229406be7f13be7",
+      "fromNode": "773ee483d76fa1ba",
+      "fromSide": "left",
+      "toNode": "5153fd365e01f21b",
+      "toSide": "right",
+      "label": "был рядом с Саритом после заражения"
+    },
+    {
+      "id": "2acb7833eb69ea94",
+      "fromNode": "9d7e4da3597ff3d8",
+      "fromSide": "left",
+      "toNode": "ad90b9228427fb55",
+      "toSide": "right",
+      "label": "местные куо-тоа просят помощи"
+    },
+    {
+      "id": "724435d5bfdc0954",
+      "fromNode": "ad90b9228427fb55",
+      "fromSide": "right",
+      "toNode": "f909732d0733b40e",
+      "toSide": "left",
+      "label": "поселение на берегу"
+    },
+    {
+      "id": "1b72d926697c308a",
+      "fromNode": "ea4fb391a096b9f6",
+      "fromSide": "left",
+      "toNode": "ad90b9228427fb55",
+      "toSide": "right",
+      "label": "проводник группы / поиск лодки"
+    },
+    {
+      "id": "367a5bd143da1fd1",
+      "fromNode": "ccc693798fe0ce4e",
+      "fromSide": "left",
+      "toNode": "ad90b9228427fb55",
+      "toSide": "right",
+      "label": "оставлена снаружи до возвращения"
+    },
+    {
+      "id": "a88b36e755922a0e",
+      "fromNode": "7d8f530b8e82dd7c",
+      "fromSide": "top",
+      "toNode": "eef41042a3c72e7e",
+      "toSide": "left",
+      "label": "Иви — её воспоминание"
+    },
+    {
+      "id": "1f0a9bf6250a0b86",
+      "fromNode": "7d8f530b8e82dd7c",
+      "fromSide": "top",
+      "toNode": "2de4b3091a67a065",
+      "toSide": "bottom",
+      "label": "Иви направила группу на маршрут"
+    },
+    {
+      "id": "5e483414209d4935",
+      "fromNode": "54d630d2226bb5b3",
+      "fromSide": "top",
+      "toNode": "2de4b3091a67a065",
+      "toSide": "bottom",
+      "label": "нападение на группу"
+    }
+  ]
+}

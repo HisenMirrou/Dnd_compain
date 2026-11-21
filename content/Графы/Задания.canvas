@@ -1,0 +1,108 @@
+{
+  "nodes": [
+    {
+      "id": "6dfbc2061b654cf8",
+      "type": "file",
+      "file": "Задания/Найти отряд Эльдет.md",
+      "x": 340,
+      "y": 220,
+      "width": 260,
+      "height": 100,
+      "color": "1"
+    },
+    {
+      "id": "e354b8fd1935b852",
+      "type": "file",
+      "file": "Задания/Книга для Джорлана.md",
+      "x": 0,
+      "y": 440,
+      "width": 260,
+      "height": 100,
+      "color": "2"
+    },
+    {
+      "id": "1375fb98ca4cafc3",
+      "type": "file",
+      "file": "Задания/Освободить Инга и Ронта.md",
+      "x": -380,
+      "y": -260,
+      "width": 260,
+      "height": 100,
+      "color": "1"
+    },
+    {
+      "id": "aba9ae02b73cea46",
+      "type": "file",
+      "file": "Задания/Помочь Слобладопу.md",
+      "x": 180,
+      "y": -460,
+      "width": 260,
+      "height": 100,
+      "color": "1"
+    },
+    {
+      "id": "011aa2eee5010714",
+      "type": "file",
+      "file": "Задания/Разобраться с заражением Сарита.md",
+      "x": 760,
+      "y": -360,
+      "width": 260,
+      "height": 100,
+      "color": "1"
+    },
+    {
+      "id": "ac7dda2c596de8e1",
+      "type": "file",
+      "file": "Задания/Помочь Шарлотте обрести контроль.md",
+      "x": 470,
+      "y": -160,
+      "width": 260,
+      "height": 140,
+      "color": "1"
+    },
+    {
+      "id": "460ead8410a58ddb",
+      "type": "file",
+      "file": "Задания/Вернуть Аэдру человеческий облик.md",
+      "x": 860,
+      "y": -120,
+      "width": 260,
+      "height": 100,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "83d1a679b299dfe8",
+      "fromNode": "1375fb98ca4cafc3",
+      "fromSide": "right",
+      "toNode": "aba9ae02b73cea46",
+      "toSide": "left",
+      "label": "лодка / возвращение за спутниками"
+    },
+    {
+      "id": "60fb75d4a86bf45e",
+      "fromNode": "011aa2eee5010714",
+      "fromSide": "left",
+      "toNode": "ac7dda2c596de8e1",
+      "toSide": "right",
+      "label": "контроль и обещание остановить"
+    },
+    {
+      "id": "dc60f5246d0c14c5",
+      "fromNode": "6dfbc2061b654cf8",
+      "fromSide": "left",
+      "toNode": "1375fb98ca4cafc3",
+      "toSide": "right",
+      "label": "спасение спутников / дроу"
+    },
+    {
+      "id": "cf7b4ff9deeaff54",
+      "fromNode": "e354b8fd1935b852",
+      "fromSide": "top",
+      "toNode": "1375fb98ca4cafc3",
+      "toSide": "bottom",
+      "label": "обязательство после побега"
+    }
+  ]
+}
