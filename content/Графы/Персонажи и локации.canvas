@@ -1,6 +1,26 @@
 {
   "nodes": [
     {
+      "id": "a27605bcce535c94",
+      "x": 1700,
+      "y": -135,
+      "width": 600,
+      "height": 640,
+      "color": "4",
+      "type": "group",
+      "label": "Вместе"
+    },
+    {
+      "id": "7d9c2a94c0751e47",
+      "x": -940,
+      "y": -20,
+      "width": 280,
+      "height": 395,
+      "color": "5",
+      "type": "group",
+      "label": "Вместе"
+    },
+    {
       "id": "647bfe87136f7298",
       "type": "file",
       "file": "Локации/Подземье.md",
@@ -28,7 +48,7 @@
       "y": 0,
       "width": 240,
       "height": 90,
-      "color": "4"
+      "color": "5"
     },
     {
       "id": "8fb0e1c5dc313965",
@@ -38,7 +58,7 @@
       "y": 265,
       "width": 240,
       "height": 90,
-      "color": "3"
+      "color": "5"
     },
     {
       "id": "773ee483d76fa1ba",
@@ -191,22 +211,6 @@
       "label": "старт после побега"
     },
     {
-      "id": "b65fba4ac9aa8cb3",
-      "fromNode": "8e7bccc25d83b5c3",
-      "fromSide": "top",
-      "toNode": "9a3fcb2dff4aa620",
-      "toSide": "top",
-      "label": "пленник / побег / захвачен повторно"
-    },
-    {
-      "id": "10c6947e59e7b99b",
-      "fromNode": "8fb0e1c5dc313965",
-      "fromSide": "top",
-      "toNode": "9a3fcb2dff4aa620",
-      "toSide": "top",
-      "label": "пленник / захвачен повторно"
-    },
-    {
       "id": "fc97baa4aed801bb",
       "fromNode": "54d630d2226bb5b3",
       "fromSide": "top",
@@ -217,7 +221,7 @@
     {
       "id": "c561e6e0edace7af",
       "fromNode": "67b2510b7ea4e0cf",
-      "fromSide": "left",
+      "fromSide": "bottom",
       "toNode": "3e01c1a83d6a4b87",
       "toSide": "top",
       "label": "родина и королевство"
@@ -257,7 +261,7 @@
     {
       "id": "724435d5bfdc0954",
       "fromNode": "ad90b9228427fb55",
-      "fromSide": "right",
+      "fromSide": "left",
       "toNode": "f909732d0733b40e",
       "toSide": "left",
       "label": "поселение на берегу"
@@ -301,6 +305,50 @@
       "toNode": "2de4b3091a67a065",
       "toSide": "bottom",
       "label": "нападение на группу"
+    },
+    {
+      "id": "fc6dfd56a104253a",
+      "fromNode": "a27605bcce535c94",
+      "fromSide": "left",
+      "toNode": "ad90b9228427fb55",
+      "toSide": "right",
+      "color": "1"
+    },
+    {
+      "id": "686ad1051269abd3",
+      "fromNode": "7d9c2a94c0751e47",
+      "fromSide": "right",
+      "toNode": "9a3fcb2dff4aa620",
+      "toSide": "top",
+      "color": "1",
+      "label": "пленники / захвачен повторно"
+    },
+    {
+      "id": "894fb764970343b2",
+      "fromNode": "9a3fcb2dff4aa620",
+      "fromSide": "right",
+      "toNode": "eef41042a3c72e7e",
+      "toSide": "left",
+      "color": "4",
+      "label": "Прошли"
+    },
+    {
+      "id": "53119db6bf1cba2f",
+      "fromNode": "eef41042a3c72e7e",
+      "fromSide": "right",
+      "toNode": "2de4b3091a67a065",
+      "toSide": "left",
+      "color": "4",
+      "label": "Прошли"
+    },
+    {
+      "id": "9b84df1d44aabc76",
+      "fromNode": "2de4b3091a67a065",
+      "fromSide": "top",
+      "toNode": "ad90b9228427fb55",
+      "toSide": "bottom",
+      "color": "4",
+      "label": "Прошли"
     }
   ]
 }
